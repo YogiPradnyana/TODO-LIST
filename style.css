@@ -120,6 +120,7 @@ body {
 
 .filters span {
   margin-right: 18px;
+  cursor: pointer;
 }
 
 .filters span.active {
